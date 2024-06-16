@@ -2,3 +2,4 @@ python-telegram-bot
 pytz
 asyncio
 unidecode
+flask
