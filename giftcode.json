@@ -1,0 +1,10 @@
+{
+    "WELCOME2024": {
+        "uses": 6,
+        "amount": 50000
+    },
+    "TEST": {
+        "amount": 1000000,
+        "uses": 9
+    }
+}
